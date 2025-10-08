@@ -10,7 +10,6 @@ This project combines **SQL for data analysis** and **Power BI for visualization
 ## 🔗 Dashboard Access  
 You can view the **interactive dashboard** here:  
 👉 [**Pizza House Power BI Dashboard**](https://github.com/Abhijeet-Santhosh/Pizza-House-Sales-Report-/blob/main/Dashboard.pbit)  
-*(Replace the link above with your published Power BI link once available.)*
 
 ---
 
