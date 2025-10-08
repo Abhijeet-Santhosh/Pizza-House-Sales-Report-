@@ -7,6 +7,23 @@ This project combines **SQL for data analysis** and **Power BI for visualization
 
 ---
 
+## 🔗 Dashboard Access  
+You can view the **interactive dashboard** here:  
+👉 [**Pizza House Power BI Dashboard**](https://github.com/Abhijeet-Santhosh/Pizza-House-Sales-Report-/blob/main/Dashboard.pbit)  
+*(Replace the link above with your published Power BI link once available.)*
+
+---
+
+## 🖼️ Dashboard Preview  
+
+### 📊 **Page 1 — Sales Summary**
+![Pizza House Sales Dashboard - Summary](https://github.com/Abhijeet-Santhosh/Pizza-House-Sales-Report-/blob/main/Pizzas%20House%20Sales%20Dashboard%201.png)
+
+### 📈 **Page 2 — Best & Worst Sellers**
+![Pizza House Sales Dashboard - Best & Worst Sellers](https://github.com/Abhijeet-Santhosh/Pizza-House-Sales-Report-/blob/main/Pizza%20House%20Sales%20Dashboard%202.png)
+
+---
+
 ## 🏢 Business Problem  
 Pizza House management lacked a clear understanding of:
 - Which pizza types and sizes generate the most revenue and orders.  
@@ -102,6 +119,8 @@ These insights allow Pizza House to:
 
 ## ⚖️ Data Ethics Overview  
 - This dataset is **synthetic and purely for educational purposes**.  
+- No personal or sensitive information is included.  
+- The analysis and results comply with ethical data handling and visualization practices, ensuring clarity, transparency, and fairness in representation.  
 - No personal or sensitive information is included.  
 - The analysis and results comply with ethical data handling and visualization practices, ensuring clarity, transparency, and fairness in representation.  
 
