@@ -122,7 +122,3 @@ These insights allow Pizza House to:
 - The analysis and results comply with ethical data handling and visualization practices, ensuring clarity, transparency, and fairness in representation.  
 - No personal or sensitive information is included.  
 - The analysis and results comply with ethical data handling and visualization practices, ensuring clarity, transparency, and fairness in representation.  
-
----
-
-## 📁 Repository Structure
